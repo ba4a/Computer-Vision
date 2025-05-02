@@ -13,9 +13,7 @@ This is a Streamlit-based web application for detecting and classifying coins fr
 - Provides a GUI for uploading and analyzing images
 - Displays annotated output with classification and total value in MKD
 
-## 🖼️ Folder Structure
 
-Before running, make sure you have the following structure:
 
 
 
