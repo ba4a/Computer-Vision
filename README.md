@@ -17,21 +17,7 @@ This is a Streamlit-based web application for detecting and classifying coins fr
 
 Before running, make sure you have the following structure:
 
-```
 
-project/
-│
-├── Images/
-│   ├── copper/
-│   │   ├── image1.jpg
-│   │   └── ...
-│   └── silver/
-│       ├── image1.jpg
-│       └── ...
-├── app.py
-└── README.md
-
-````
 
 ## 🔧 Installation
 
